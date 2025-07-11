@@ -1,0 +1,2689 @@
+{
+    "updated_at": "2025-07-11T18:39:16.990771",
+    "data": {
+        "uz": {
+            "categories": [
+                "MANTIQASQONLAR",
+                "BLINITSALAR",
+                "QOZON NABORLAR",
+                "SKAVAROTKALAR",
+                "KASTRULKA NABORLAR",
+                "QOZONLAR",
+                "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                "PICHOQLAR",
+                "QOSHIQLAR",
+                "OSHXONA NABORLAR"
+            ],
+            "products": [
+                {
+                    "id": 1,
+                    "name": "Changyutgich",
+                    "shortDescription": "Vicalina changyutgichi",
+                    "price": 1180000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Changyutgich",
+                    "quantity": 18,
+                    "sku": "VL-701",
+                    "images": [
+                        {
+                            "productUzbId": 1,
+                            "fileName": "7e9a83ee-fc0b-4874-9f04-6724dd7b1a48_image_0_1747379492875.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/7e9a83ee-fc0b-4874-9f04-6724dd7b1a48_image_0_1747379492875.png",
+                            "id": 1
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "Changyutgich",
+                    "shortDescription": "Vicalina changyutgichi",
+                    "price": 1100000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Changyutgich",
+                    "quantity": 17,
+                    "sku": "VL-702",
+                    "images": [
+                        {
+                            "productUzbId": 2,
+                            "fileName": "be2dc5d2-259b-4570-9d43-4c444505fa1c_image_0_1747398282090.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/be2dc5d2-259b-4570-9d43-4c444505fa1c_image_0_1747398282090.png",
+                            "id": 3
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "Changyutgich",
+                    "shortDescription": "Vicalina changyutgichi",
+                    "price": 1180000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Changyutgich",
+                    "quantity": 20,
+                    "sku": "VL-705",
+                    "images": [
+                        {
+                            "productUzbId": 3,
+                            "fileName": "4f008879-13e8-49aa-85f0-5b3ef1dfdc2f_image_0_1747398526696.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/4f008879-13e8-49aa-85f0-5b3ef1dfdc2f_image_0_1747398526696.png",
+                            "id": 5
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "Changyutgich",
+                    "shortDescription": "Vicalina changyutgichi",
+                    "price": 1180000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Changyutgich",
+                    "quantity": 16,
+                    "sku": "VL-706",
+                    "images": [
+                        {
+                            "productUzbId": 4,
+                            "fileName": "89556daf-991e-4b51-ab0a-60d38314eba6_image_0_1747398723403.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/89556daf-991e-4b51-ab0a-60d38314eba6_image_0_1747398723403.png",
+                            "id": 7
+                        },
+                        {
+                            "productUzbId": 4,
+                            "fileName": "d6c2e985-1197-4be4-bd64-47f63a1592a8_image_1_1747398723403.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/d6c2e985-1197-4be4-bd64-47f63a1592a8_image_1_1747398723403.png",
+                            "id": 8
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "Changyutgich",
+                    "shortDescription": "Vicalina changyutgichi",
+                    "price": 1550000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Changyutgich",
+                    "quantity": 20,
+                    "sku": "VL-707",
+                    "images": [
+                        {
+                            "productUzbId": 5,
+                            "fileName": "09b730b2-fa26-496f-a496-3e67f8005b07_image_0_1747398943056.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/09b730b2-fa26-496f-a496-3e67f8005b07_image_0_1747398943056.png",
+                            "id": 11
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "Qozon",
+                    "shortDescription": "Yuqori sifatli Granit bilan qoplangan qozon",
+                    "price": 210000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "QOZONLAR",
+                    "type": "Granit",
+                    "quantity": 19,
+                    "sku": "VL-0124",
+                    "images": [
+                        {
+                            "productUzbId": 6,
+                            "fileName": "b5fd87fd-6600-4783-a177-131154b43d41_image_0_1747399233813.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/b5fd87fd-6600-4783-a177-131154b43d41_image_0_1747399233813.png",
+                            "id": 14
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Qozon",
+                    "shortDescription": "Yuqori sifatli Granit bilan qoplangan qozon",
+                    "price": 220000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "QOZONLAR",
+                    "type": "Granit",
+                    "quantity": 20,
+                    "sku": "VL-7801",
+                    "images": [
+                        {
+                            "productUzbId": 7,
+                            "fileName": "fc75f734-2ae5-4eb8-be4f-664e5d554511_image_0_1747399854546.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/fc75f734-2ae5-4eb8-be4f-664e5d554511_image_0_1747399854546.png",
+                            "id": 15
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "Qozon",
+                    "shortDescription": "Yuqori sifatli Granit bilan qoplangan qozon",
+                    "price": 210000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "QOZONLAR",
+                    "type": "Granit",
+                    "quantity": 20,
+                    "sku": "VL-6824",
+                    "images": [
+                        {
+                            "productUzbId": 8,
+                            "fileName": "3eb96d92-ecd7-4bb7-ac33-c4d2b6a90d3d_image_0_1747457965710.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/3eb96d92-ecd7-4bb7-ac33-c4d2b6a90d3d_image_0_1747457965710.png",
+                            "id": 17
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "Dazmol",
+                    "shortDescription": "Vicalina dazmoli",
+                    "price": 220000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Dazmol",
+                    "quantity": 19,
+                    "sku": "VL-101D",
+                    "images": [
+                        {
+                            "productUzbId": 9,
+                            "fileName": "745f046c-1aff-49c9-babe-28adea842fe2_image_0_1747458431013.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/745f046c-1aff-49c9-babe-28adea842fe2_image_0_1747458431013.png",
+                            "id": 19
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "Dazmol",
+                    "shortDescription": "Vicalina dazmoli",
+                    "price": 250000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Dazmol",
+                    "quantity": 19,
+                    "sku": "VL-102D",
+                    "images": [
+                        {
+                            "productUzbId": 10,
+                            "fileName": "a33cb1c8-36f4-42af-9249-6680413382fb_image_0_1747458732559.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/a33cb1c8-36f4-42af-9249-6680413382fb_image_0_1747458732559.png",
+                            "id": 21
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "Dazmol",
+                    "shortDescription": "Zamonaviy dizaynga ega Vicalina dazmoli",
+                    "price": 235000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Dazmol",
+                    "quantity": 20,
+                    "sku": "VL-103D",
+                    "images": [
+                        {
+                            "productUzbId": 11,
+                            "fileName": "cbe47fd3-a55e-44f7-9536-5bf975371f93_image_0_1747459075333.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/cbe47fd3-a55e-44f7-9536-5bf975371f93_image_0_1747459075333.png",
+                            "id": 23
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "Dazmol",
+                    "shortDescription": "Vicalina dazmoli",
+                    "price": 235000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Dazmol",
+                    "quantity": 20,
+                    "sku": "VL-106D",
+                    "images": [
+                        {
+                            "productUzbId": 12,
+                            "fileName": "99d0932f-9d42-4936-ab76-a0fec38e07e3_image_0_1747459365767.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/99d0932f-9d42-4936-ab76-a0fec38e07e3_image_0_1747459365767.png",
+                            "id": 25
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "Dazmol",
+                    "shortDescription": "Vicalina dazmoli",
+                    "price": 280000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Dazmol",
+                    "quantity": 20,
+                    "sku": "VL-107D",
+                    "images": [
+                        {
+                            "productUzbId": 13,
+                            "fileName": "ac63c8d8-406d-4b00-911f-f76de6663848_image_0_1747459866878.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/ac63c8d8-406d-4b00-911f-f76de6663848_image_0_1747459866878.png",
+                            "id": 27
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "Dazmol",
+                    "shortDescription": "Vicalina dazmoli",
+                    "price": 285000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Dazmol",
+                    "quantity": 20,
+                    "sku": "VL-117D",
+                    "images": [
+                        {
+                            "productUzbId": 14,
+                            "fileName": "190fef96-b74b-4d95-bc5b-20b5115e7d59_image_0_1747460845396.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/190fef96-b74b-4d95-bc5b-20b5115e7d59_image_0_1747460845396.png",
+                            "id": 29
+                        },
+                        {
+                            "productUzbId": 14,
+                            "fileName": "5cbbd27c-5a6b-4288-acda-b4808fb2e49d_image_1_1747460845396.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/5cbbd27c-5a6b-4288-acda-b4808fb2e49d_image_1_1747460845396.png",
+                            "id": 30
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "Dazmol",
+                    "shortDescription": "Vicalina dazmoli",
+                    "price": 270000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Dazmol",
+                    "quantity": 20,
+                    "sku": "VL-120D",
+                    "images": [
+                        {
+                            "productUzbId": 15,
+                            "fileName": "743cbb90-332f-4b6b-850a-b69637e38a76_image_0_1747470012586.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/743cbb90-332f-4b6b-850a-b69637e38a76_image_0_1747470012586.png",
+                            "id": 33
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "name": "Dazmol",
+                    "shortDescription": "Vicalina dazmoli",
+                    "price": 270000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Dazmol",
+                    "quantity": 20,
+                    "sku": "VL-121D",
+                    "images": [
+                        {
+                            "productUzbId": 16,
+                            "fileName": "3d2809f4-527c-47c0-905b-ad3d55c41be8_image_0_1747470185401.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/3d2809f4-527c-47c0-905b-ad3d55c41be8_image_0_1747470185401.png",
+                            "id": 35
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "name": "Chopper",
+                    "shortDescription": "Vicalina Chopperi",
+                    "price": 250000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Chopper",
+                    "quantity": 20,
+                    "sku": "VL-109D",
+                    "images": [
+                        {
+                            "productUzbId": 17,
+                            "fileName": "16dc60dd-35cf-4bb7-b0ec-e8bc06f225e9_image_0_1747542040559.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/16dc60dd-35cf-4bb7-b0ec-e8bc06f225e9_image_0_1747542040559.png",
+                            "id": 37
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "name": "Chopper",
+                    "shortDescription": "Vicalina Chopperi",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Chopper",
+                    "quantity": 20,
+                    "sku": "VL-203D",
+                    "images": [
+                        {
+                            "productUzbId": 18,
+                            "fileName": "9af271a6-8dda-43e2-8be3-a940b5f9047a_image_0_1747542419233.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/9af271a6-8dda-43e2-8be3-a940b5f9047a_image_0_1747542419233.png",
+                            "id": 39
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "name": "Chopper",
+                    "shortDescription": "Vicalina Chopperi",
+                    "price": 250000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Chopper",
+                    "quantity": 20,
+                    "sku": "VL-113D",
+                    "images": [
+                        {
+                            "productUzbId": 19,
+                            "fileName": "1838aebb-0138-4ed7-bd61-07f100b791b7_image_0_1747542722013.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/1838aebb-0138-4ed7-bd61-07f100b791b7_image_0_1747542722013.png",
+                            "id": 41
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "name": "Chopper",
+                    "shortDescription": "Vicalina Chopperi",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Chopper",
+                    "quantity": 20,
+                    "sku": "VL-201D",
+                    "images": [
+                        {
+                            "productUzbId": 20,
+                            "fileName": "f22f57a7-4f23-4262-bccb-b384ffac0e74_image_0_1747543210754.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/f22f57a7-4f23-4262-bccb-b384ffac0e74_image_0_1747543210754.png",
+                            "id": 43
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "name": "Chopper",
+                    "shortDescription": "Vicalina Chopperi",
+                    "price": 250000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Chopper",
+                    "quantity": 20,
+                    "sku": "VL-202D",
+                    "images": [
+                        {
+                            "productUzbId": 21,
+                            "fileName": "1ecd4a43-091d-440c-b50c-bfff3ddd076d_image_0_1747543446511.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/1ecd4a43-091d-440c-b50c-bfff3ddd076d_image_0_1747543446511.png",
+                            "id": 45
+                        }
+                    ]
+                },
+                {
+                    "id": 30,
+                    "name": "Oshxona nabor",
+                    "shortDescription": "Vicalina oshxona nabori",
+                    "price": 129000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "OSHXONA NABORLAR",
+                    "type": "Oshxona nabor",
+                    "quantity": 20,
+                    "sku": "VL-1271",
+                    "images": [
+                        {
+                            "productUzbId": 30,
+                            "fileName": "236627f4-33a3-40ce-a059-126d68bf119d_image_0_1747561990622.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/236627f4-33a3-40ce-a059-126d68bf119d_image_0_1747561990622.png",
+                            "id": 77
+                        },
+                        {
+                            "productUzbId": 30,
+                            "fileName": "4fdc3940-f1e7-40a1-b758-6eef342d665c_image_1_1747561990623.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/4fdc3940-f1e7-40a1-b758-6eef342d665c_image_1_1747561990623.png",
+                            "id": 78
+                        }
+                    ]
+                },
+                {
+                    "id": 31,
+                    "name": "Oshxona nabor",
+                    "shortDescription": "Vicalina oshxona nabori",
+                    "price": 155000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "OSHXONA NABORLAR",
+                    "type": "Oshxona nabor",
+                    "quantity": 14,
+                    "sku": "VL-1272",
+                    "images": [
+                        {
+                            "productUzbId": 31,
+                            "fileName": "4355c377-2d89-4c67-a423-7c3375126c9b_image_0_1747562369692.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/4355c377-2d89-4c67-a423-7c3375126c9b_image_0_1747562369692.png",
+                            "id": 81
+                        },
+                        {
+                            "productUzbId": 31,
+                            "fileName": "a5d843aa-223d-4ac7-92d2-961a48a49e61_image_1_1747562369692.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/a5d843aa-223d-4ac7-92d2-961a48a49e61_image_1_1747562369692.png",
+                            "id": 82
+                        }
+                    ]
+                },
+                {
+                    "id": 32,
+                    "name": "Qoshiq va Vilkalar",
+                    "shortDescription": "Vicalina Qoshiq va Vilkalar",
+                    "price": 370000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "QOSHIQLAR",
+                    "type": "Metal",
+                    "quantity": 19,
+                    "sku": "VL-322",
+                    "images": [
+                        {
+                            "productUzbId": 32,
+                            "fileName": "0f6b24a3-1c2c-400e-b6c8-a4d1044076ae_image_0_1747565717344.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/0f6b24a3-1c2c-400e-b6c8-a4d1044076ae_image_0_1747565717344.png",
+                            "id": 85
+                        },
+                        {
+                            "productUzbId": 32,
+                            "fileName": "19e0e36d-79f3-4e68-830d-ef5cecd4ba4c_image_1_1747565717346.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/19e0e36d-79f3-4e68-830d-ef5cecd4ba4c_image_1_1747565717346.png",
+                            "id": 86
+                        }
+                    ]
+                },
+                {
+                    "id": 33,
+                    "name": "Qoshiq va Vilkalar",
+                    "shortDescription": "Vicalina Qoshiq va Vilkalar",
+                    "price": 370000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "QOSHIQLAR",
+                    "type": "Metal",
+                    "quantity": 20,
+                    "sku": "VL-331",
+                    "images": [
+                        {
+                            "productUzbId": 33,
+                            "fileName": "a1ef494b-d2da-4c3c-84a9-4f0d77a48930_image_0_1747733115992.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/a1ef494b-d2da-4c3c-84a9-4f0d77a48930_image_0_1747733115992.png",
+                            "id": 89
+                        },
+                        {
+                            "productUzbId": 33,
+                            "fileName": "6ce41ae8-3bf0-47fc-ad3f-044a44a30b82_image_1_1747733115994.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/6ce41ae8-3bf0-47fc-ad3f-044a44a30b82_image_1_1747733115994.png",
+                            "id": 90
+                        }
+                    ]
+                },
+                {
+                    "id": 34,
+                    "name": "Qoshiq va Vilkalar",
+                    "shortDescription": "Vicalina Qoshiq va Vilkalar",
+                    "price": 370000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "QOSHIQLAR",
+                    "type": "Metal",
+                    "quantity": 20,
+                    "sku": "VL-342",
+                    "images": [
+                        {
+                            "productUzbId": 34,
+                            "fileName": "970435b1-c84a-49a8-9787-fd71276f4e5b_image_0_1747733898807.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/970435b1-c84a-49a8-9787-fd71276f4e5b_image_0_1747733898807.png",
+                            "id": 93
+                        },
+                        {
+                            "productUzbId": 34,
+                            "fileName": "fb64b5fd-d680-4570-8336-f02ff83a1f33_image_1_1747733898809.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/fb64b5fd-d680-4570-8336-f02ff83a1f33_image_1_1747733898809.png",
+                            "id": 94
+                        }
+                    ]
+                },
+                {
+                    "id": 35,
+                    "name": "Qoshiq va Vilkalar",
+                    "shortDescription": "Vicalina Qoshiq va Vilkalar",
+                    "price": 370000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "QOSHIQLAR",
+                    "type": "Metal",
+                    "quantity": 20,
+                    "sku": "VL-342",
+                    "images": [
+                        {
+                            "productUzbId": 35,
+                            "fileName": "eb1ef4bf-eb59-4bc1-b785-d9ceea3dfd08_image_0_1747734610414.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/eb1ef4bf-eb59-4bc1-b785-d9ceea3dfd08_image_0_1747734610414.png",
+                            "id": 97
+                        },
+                        {
+                            "productUzbId": 35,
+                            "fileName": "d63cc6a7-cdcb-43e9-8b9f-0c671b4dd99a_image_1_1747734610414.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/d63cc6a7-cdcb-43e9-8b9f-0c671b4dd99a_image_1_1747734610414.png",
+                            "id": 98
+                        }
+                    ]
+                },
+                {
+                    "id": 36,
+                    "name": "Qoshiq va Vilkalar",
+                    "shortDescription": "Vicalina Qoshiq va Vilkalar",
+                    "price": 400000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "QOSHIQLAR",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-347",
+                    "images": [
+                        {
+                            "productUzbId": 36,
+                            "fileName": "968f929a-5ae5-4335-80ba-9509913c415d_image_0_1747734932735.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/968f929a-5ae5-4335-80ba-9509913c415d_image_0_1747734932735.png",
+                            "id": 101
+                        },
+                        {
+                            "productUzbId": 36,
+                            "fileName": "0011027a-ae55-4a45-b77c-db955084718a_image_1_1747734932736.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/0011027a-ae55-4a45-b77c-db955084718a_image_1_1747734932736.png",
+                            "id": 102
+                        }
+                    ]
+                },
+                {
+                    "id": 37,
+                    "name": "Qoshiq va Vilkalar",
+                    "shortDescription": "Vicalina Qoshiq va Vilkalar",
+                    "price": 370000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "QOSHIQLAR",
+                    "type": "Metal",
+                    "quantity": 20,
+                    "sku": "VL-352",
+                    "images": [
+                        {
+                            "productUzbId": 37,
+                            "fileName": "f16babf3-455c-4c77-a048-19092f89a643_image_0_1747735128375.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/f16babf3-455c-4c77-a048-19092f89a643_image_0_1747735128375.png",
+                            "id": 105
+                        },
+                        {
+                            "productUzbId": 37,
+                            "fileName": "b4022f6b-22e3-446f-95ad-5089afd996ae_image_1_1747735128376.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/b4022f6b-22e3-446f-95ad-5089afd996ae_image_1_1747735128376.png",
+                            "id": 106
+                        }
+                    ]
+                },
+                {
+                    "id": 38,
+                    "name": "Qoshiq va Vilkalar",
+                    "shortDescription": "Vicalina Qoshiq va Vilkalar",
+                    "price": 370000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "QOSHIQLAR",
+                    "type": "Metal",
+                    "quantity": 20,
+                    "sku": "VL-362",
+                    "images": [
+                        {
+                            "productUzbId": 38,
+                            "fileName": "940e79a0-ec6e-4767-a145-a8b6145ceb26_image_0_1747735321838.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/940e79a0-ec6e-4767-a145-a8b6145ceb26_image_0_1747735321838.png",
+                            "id": 109
+                        },
+                        {
+                            "productUzbId": 38,
+                            "fileName": "aa0044cb-baa8-48c7-be41-eb74f170a46c_image_1_1747735321840.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/aa0044cb-baa8-48c7-be41-eb74f170a46c_image_1_1747735321840.png",
+                            "id": 110
+                        }
+                    ]
+                },
+                {
+                    "id": 39,
+                    "name": "Qoshiq va Vilkalar",
+                    "shortDescription": "Vicalina Qoshiq va Vilkalar",
+                    "price": 400000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "QOSHIQLAR",
+                    "type": "Metal",
+                    "quantity": 20,
+                    "sku": "VL-345",
+                    "images": [
+                        {
+                            "productUzbId": 39,
+                            "fileName": "71bc8247-dc94-4609-80ee-23561e50b227_image_0_1747735473177.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/71bc8247-dc94-4609-80ee-23561e50b227_image_0_1747735473177.png",
+                            "id": 113
+                        },
+                        {
+                            "productUzbId": 39,
+                            "fileName": "ef3ff00c-5fc0-4c76-a7f7-21642e3ff6a3_image_1_1747735473179.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/ef3ff00c-5fc0-4c76-a7f7-21642e3ff6a3_image_1_1747735473179.png",
+                            "id": 114
+                        }
+                    ]
+                },
+                {
+                    "id": 40,
+                    "name": "Elektr choynak ",
+                    "shortDescription": "Vicalina elektr choynagi ",
+                    "price": 200000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Elektr choynak ",
+                    "quantity": 20,
+                    "sku": "vl-1702",
+                    "images": [
+                        {
+                            "productUzbId": 40,
+                            "fileName": "c1bcf79a-3d26-41d6-9a80-f69c6a47f2d8_image_0_1747814996052.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/c1bcf79a-3d26-41d6-9a80-f69c6a47f2d8_image_0_1747814996052.png",
+                            "id": 118
+                        }
+                    ]
+                },
+                {
+                    "id": 41,
+                    "name": "Elektr choynak ",
+                    "shortDescription": "Vicalina elektr choynagi ",
+                    "price": 200000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Elektr choynak ",
+                    "quantity": 20,
+                    "sku": "vl-1732",
+                    "images": [
+                        {
+                            "productUzbId": 41,
+                            "fileName": "99da9b36-ab1f-49ca-bb66-6ec1d05ed47a_image_0_1747815533645.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/99da9b36-ab1f-49ca-bb66-6ec1d05ed47a_image_0_1747815533645.png",
+                            "id": 119
+                        }
+                    ]
+                },
+                {
+                    "id": 42,
+                    "name": "Elektr choynak ",
+                    "shortDescription": "Vicalina elektr choynagi ",
+                    "price": 200000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Elektr choynak ",
+                    "quantity": 20,
+                    "sku": "vl-1757",
+                    "images": [
+                        {
+                            "productUzbId": 42,
+                            "fileName": "46f1b553-554d-4951-acd2-751ff54ca1ce_image_0_1747819794991.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/46f1b553-554d-4951-acd2-751ff54ca1ce_image_0_1747819794991.png",
+                            "id": 121
+                        }
+                    ]
+                },
+                {
+                    "id": 43,
+                    "name": "Elektr choynak ",
+                    "shortDescription": "Vicalina elektr choynagi ",
+                    "price": 200000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Elektr choynak ",
+                    "quantity": 20,
+                    "sku": "vl-1762",
+                    "images": [
+                        {
+                            "productUzbId": 43,
+                            "fileName": "26d7553e-9d20-49f3-99e5-e5bbf8222f25_image_0_1747820158387.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/26d7553e-9d20-49f3-99e5-e5bbf8222f25_image_0_1747820158387.png",
+                            "id": 123
+                        }
+                    ]
+                },
+                {
+                    "id": 44,
+                    "name": "Elektr choynak ",
+                    "shortDescription": "Vicalina elektr choynagi ",
+                    "price": 200000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KICHIK TURDAGI MAISHIY TEXNIKALAR",
+                    "type": "Elektr choynak ",
+                    "quantity": 20,
+                    "sku": "VL-1788",
+                    "images": [
+                        {
+                            "productUzbId": 44,
+                            "fileName": "ba1be1f9-ec7e-4cf0-935b-469e83b0ab25_image_0_1747820512663.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/ba1be1f9-ec7e-4cf0-935b-469e83b0ab25_image_0_1747820512663.png",
+                            "id": 125
+                        }
+                    ]
+                },
+                {
+                    "id": 45,
+                    "name": "Tova",
+                    "shortDescription": "Vicalina tovasi.",
+                    "price": 220000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "SKAVAROTKALAR",
+                    "type": "Tova",
+                    "quantity": 18,
+                    "sku": "VL-4224",
+                    "images": [
+                        {
+                            "productUzbId": 45,
+                            "fileName": "64d2bc26-54aa-4708-8296-cc66a4e9665d_image_0_1747821359821.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/64d2bc26-54aa-4708-8296-cc66a4e9665d_image_0_1747821359821.png",
+                            "id": 127
+                        }
+                    ]
+                },
+                {
+                    "id": 46,
+                    "name": "Tova",
+                    "shortDescription": "Vicalina tovasi.",
+                    "price": 200000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "SKAVAROTKALAR",
+                    "type": "Tova",
+                    "quantity": 20,
+                    "sku": "VL-0224",
+                    "images": [
+                        {
+                            "productUzbId": 46,
+                            "fileName": "55b59f79-444e-49a9-8aa8-b22cd0bed532_image_0_1747821738138.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/55b59f79-444e-49a9-8aa8-b22cd0bed532_image_0_1747821738138.png",
+                            "id": 129
+                        }
+                    ]
+                },
+                {
+                    "id": 47,
+                    "name": "Tova",
+                    "shortDescription": "Vicalina tovasi.",
+                    "price": 230000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "SKAVAROTKALAR",
+                    "type": "Tova",
+                    "quantity": 20,
+                    "sku": "VL-4324",
+                    "images": [
+                        {
+                            "productUzbId": 47,
+                            "fileName": "9c48f9ba-ae6a-4bc5-a798-2ba2363dce9b_image_0_1747823212622.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/9c48f9ba-ae6a-4bc5-a798-2ba2363dce9b_image_0_1747823212622.png",
+                            "id": 131
+                        }
+                    ]
+                },
+                {
+                    "id": 48,
+                    "name": "Kovush ",
+                    "shortDescription": "Vicalina Kovush",
+                    "price": 210000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "SKAVAROTKALAR",
+                    "type": "Kovush",
+                    "quantity": 20,
+                    "sku": "VL-6018",
+                    "images": [
+                        {
+                            "productUzbId": 48,
+                            "fileName": "e14c8b47-de4b-42b2-8df6-fbb76d68a830_image_0_1747823607521.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/e14c8b47-de4b-42b2-8df6-fbb76d68a830_image_0_1747823607521.png",
+                            "id": 133
+                        }
+                    ]
+                },
+                {
+                    "id": 50,
+                    "name": "Kovush ",
+                    "shortDescription": "Vicalina Kovush",
+                    "price": 210000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "SKAVAROTKALAR",
+                    "type": "Kovush",
+                    "quantity": 20,
+                    "sku": "VL-1001",
+                    "images": [
+                        {
+                            "productUzbId": 50,
+                            "fileName": "13a25e6e-0a58-42b0-a69e-833392941c87_image_0_1748076561297.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/13a25e6e-0a58-42b0-a69e-833392941c87_image_0_1748076561297.png",
+                            "id": 137
+                        }
+                    ]
+                },
+                {
+                    "id": 51,
+                    "name": "Kastryulka",
+                    "shortDescription": "Vicalina kastryulkasi",
+                    "price": 580000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KASTRULKA NABORLAR",
+                    "type": "Metal",
+                    "quantity": 20,
+                    "sku": "VL-3027",
+                    "images": [
+                        {
+                            "productUzbId": 51,
+                            "fileName": "d1e588c6-71a3-4538-bdbe-45705558b73c_image_0_1748081932956.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/d1e588c6-71a3-4538-bdbe-45705558b73c_image_0_1748081932956.png",
+                            "id": 139
+                        }
+                    ]
+                },
+                {
+                    "id": 52,
+                    "name": "Kastryulka",
+                    "shortDescription": "Vicalina kastryulkasi",
+                    "price": 650000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KASTRULKA NABORLAR",
+                    "type": "Metal",
+                    "quantity": 20,
+                    "sku": "VL-3018",
+                    "images": [
+                        {
+                            "productUzbId": 52,
+                            "fileName": "f0df99d1-0fed-4496-a1d0-fc0896b43107_image_0_1748082299346.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/f0df99d1-0fed-4496-a1d0-fc0896b43107_image_0_1748082299346.png",
+                            "id": 141
+                        }
+                    ]
+                },
+                {
+                    "id": 53,
+                    "name": "Kastryulka",
+                    "shortDescription": "Vicalina kastryulkasi",
+                    "price": 670000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KASTRULKA NABORLAR",
+                    "type": "Metal",
+                    "quantity": 20,
+                    "sku": "VL-1013",
+                    "images": [
+                        {
+                            "productUzbId": 53,
+                            "fileName": "2c3d15e4-9939-49b0-be93-c62e10b74d44_image_0_1748082816217.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/2c3d15e4-9939-49b0-be93-c62e10b74d44_image_0_1748082816217.png",
+                            "id": 143
+                        },
+                        {
+                            "productUzbId": 53,
+                            "fileName": "29439318-b336-4ff7-9b21-1e83520420f5_image_1_1748082816219.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/29439318-b336-4ff7-9b21-1e83520420f5_image_1_1748082816219.png",
+                            "id": 144
+                        },
+                        {
+                            "productUzbId": 53,
+                            "fileName": "42bb7f6f-379a-4ebf-a541-1ae0fc1a6d62_image_2_1748082816219.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/42bb7f6f-379a-4ebf-a541-1ae0fc1a6d62_image_2_1748082816219.png",
+                            "id": 145
+                        },
+                        {
+                            "productUzbId": 53,
+                            "fileName": "8aa963f1-2d4a-49a9-bb7e-088ea69507e1_image_3_1748082816220.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/8aa963f1-2d4a-49a9-bb7e-088ea69507e1_image_3_1748082816220.png",
+                            "id": 146
+                        }
+                    ]
+                },
+                {
+                    "id": 54,
+                    "name": "Qozonlar to'plami",
+                    "shortDescription": "Vicalina qozonlar to'plami",
+                    "price": 1140000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "QOZON NABORLAR",
+                    "type": "Granit ",
+                    "quantity": 20,
+                    "sku": "VL-0119",
+                    "images": [
+                        {
+                            "productUzbId": 54,
+                            "fileName": "7808cb92-c682-43f9-8620-e7438b45a179_image_0_1748083922479.jpeg",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/7808cb92-c682-43f9-8620-e7438b45a179_image_0_1748083922479.jpeg",
+                            "id": 151
+                        }
+                    ]
+                },
+                {
+                    "id": 55,
+                    "name": "Pichoqlar",
+                    "shortDescription": "Vicalina pichoqlari",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "PICHOQLAR",
+                    "type": "Metal",
+                    "quantity": 20,
+                    "sku": "VL-543",
+                    "images": [
+                        {
+                            "productUzbId": 55,
+                            "fileName": "39168edd-3da2-42bb-a537-a5c7fbe1a9b5_image_0_1748084199555.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/39168edd-3da2-42bb-a537-a5c7fbe1a9b5_image_0_1748084199555.png",
+                            "id": 153
+                        },
+                        {
+                            "productUzbId": 55,
+                            "fileName": "990a8cda-f24c-453e-83a6-106e60efa945_image_1_1748084199556.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/990a8cda-f24c-453e-83a6-106e60efa945_image_1_1748084199556.png",
+                            "id": 154
+                        }
+                    ]
+                },
+                {
+                    "id": 56,
+                    "name": "Pichoqlar",
+                    "shortDescription": "Vicalina pichoqlari",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "PICHOQLAR",
+                    "type": "Metal",
+                    "quantity": 20,
+                    "sku": "VL-605",
+                    "images": [
+                        {
+                            "productUzbId": 56,
+                            "fileName": "9ea3cf5f-11c1-4d6e-b0b2-094c179f000b_image_0_1748085826088.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/9ea3cf5f-11c1-4d6e-b0b2-094c179f000b_image_0_1748085826088.png",
+                            "id": 157
+                        },
+                        {
+                            "productUzbId": 56,
+                            "fileName": "61ab3ae6-1581-4cf5-8aeb-c333ba69ba8b_image_1_1748085826089.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/61ab3ae6-1581-4cf5-8aeb-c333ba69ba8b_image_1_1748085826089.png",
+                            "id": 158
+                        }
+                    ]
+                },
+                {
+                    "id": 59,
+                    "name": "Blinitsa ",
+                    "shortDescription": "Vicalina blinitsasi",
+                    "price": 170000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "BLINITSALAR",
+                    "type": "Granit ",
+                    "quantity": 20,
+                    "sku": "VL-6022",
+                    "images": [
+                        {
+                            "productUzbId": 59,
+                            "fileName": "afd5b69b-3b2f-401e-80ee-a11a49856a5f_image_0_1748164312764.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/afd5b69b-3b2f-401e-80ee-a11a49856a5f_image_0_1748164312764.png",
+                            "id": 165
+                        }
+                    ]
+                },
+                {
+                    "id": 60,
+                    "name": "Mantiqasqon",
+                    "shortDescription": "Vicalina Mantiqasqoni ",
+                    "price": 580000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "MANTIQASQONLAR",
+                    "type": "Metal",
+                    "quantity": 5,
+                    "sku": "VL-5028",
+                    "images": [
+                        {
+                            "productUzbId": 60,
+                            "fileName": "bacb2c1b-eef1-4bfa-a9a7-11d8e4665bd0_image_0_1748164738211.jpeg",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/bacb2c1b-eef1-4bfa-a9a7-11d8e4665bd0_image_0_1748164738211.jpeg",
+                            "id": 167
+                        }
+                    ]
+                },
+                {
+                    "id": 61,
+                    "name": "Mantiqasqon",
+                    "shortDescription": "Vicalina Mantiqasqoni ",
+                    "price": 2000000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "MANTIQASQONLAR",
+                    "type": "Granit ",
+                    "quantity": 5,
+                    "sku": "VL-6828",
+                    "images": [
+                        {
+                            "productUzbId": 61,
+                            "fileName": "94cfe2ab-f137-4d15-9988-b5fa69503318_image_0_1748165446303.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/94cfe2ab-f137-4d15-9988-b5fa69503318_image_0_1748165446303.png",
+                            "id": 169
+                        }
+                    ]
+                },
+                {
+                    "id": 62,
+                    "name": "Kastryulka",
+                    "shortDescription": "Vicalina kastryulkasi",
+                    "price": 600000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "KASTRULKA NABORLAR",
+                    "type": "Metal",
+                    "quantity": 5,
+                    "sku": "VL-265",
+                    "images": [
+                        {
+                            "productUzbId": 62,
+                            "fileName": "cbfa17aa-f136-4456-805e-48f753832efa_image_0_1748168401454.jpeg",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/cbfa17aa-f136-4456-805e-48f753832efa_image_0_1748168401454.jpeg",
+                            "id": 171
+                        }
+                    ]
+                }
+            ]
+        },
+        "ru": {
+            "categories": [
+                "\u041d\u0410\u0411\u041e\u0420\u042b \u041a\u0410\u0417\u0410\u041d\u041e\u0412",
+                "\u041b\u041e\u0416\u041a\u0418",
+                "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                "\u0421\u041a\u041e\u0412\u041e\u0420\u041e\u0414\u042b",
+                "\u0411\u041b\u0418\u041d\u041d\u0418\u0426\u042b",
+                "\u041a\u0423\u0425\u041e\u041d\u041d\u042b\u0415 \u041d\u0410\u0411\u041e\u0420\u042b",
+                "\u041d\u0410\u0411\u041e\u0420\u042b \u041a\u0410\u0421\u0422\u0420\u042e\u041b\u042c",
+                "\u041c\u0410\u041d\u0422\u041e\u0412\u0410\u0420\u041a\u0418",
+                "\u041d\u041e\u0416\u0418",
+                "\u041a\u0410\u0417\u0410\u041d\u042b"
+            ],
+            "products": [
+                {
+                    "id": 1,
+                    "name": "\u043f\u044b\u043b\u0435\u0441\u043e\u0441",
+                    "shortDescription": "\u043f\u044b\u043b\u0435\u0441\u043e\u0441 Vicalina.",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u043f\u044b\u043b\u0435\u0441\u043e\u0441",
+                    "quantity": 18,
+                    "sku": "VL-701",
+                    "images": [
+                        {
+                            "productRusId": 1,
+                            "fileName": "347d3719-81ce-4437-8596-0233eff4f925_image_0_1747379712778.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/347d3719-81ce-4437-8596-0233eff4f925_image_0_1747379712778.png",
+                            "id": 2
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441",
+                    "shortDescription": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441\u044b Vicalina ",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441",
+                    "quantity": 17,
+                    "sku": "VL-702",
+                    "images": [
+                        {
+                            "productRusId": 2,
+                            "fileName": "00cd491f-b06a-4b2e-bd92-d866255e9eaa_image_0_1747398348489.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/00cd491f-b06a-4b2e-bd92-d866255e9eaa_image_0_1747398348489.png",
+                            "id": 4
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441",
+                    "shortDescription": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441\u044b Vicalina",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441",
+                    "quantity": 20,
+                    "sku": "VL-705",
+                    "images": [
+                        {
+                            "productRusId": 3,
+                            "fileName": "db03eb2e-6e31-44c8-b914-9e78275c06cd_image_0_1747398566804.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/db03eb2e-6e31-44c8-b914-9e78275c06cd_image_0_1747398566804.png",
+                            "id": 6
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441",
+                    "shortDescription": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441\u044b Vicalina",
+                    "price": 250000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441",
+                    "quantity": 16,
+                    "sku": "VL-706",
+                    "images": [
+                        {
+                            "productRusId": 4,
+                            "fileName": "86c0c872-3e32-4a30-9572-4c10fc74e212_image_0_1747398763228.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/86c0c872-3e32-4a30-9572-4c10fc74e212_image_0_1747398763228.png",
+                            "id": 9
+                        },
+                        {
+                            "productRusId": 4,
+                            "fileName": "5b15637f-9ffc-4946-bc56-92e2b70bc97d_image_1_1747398763228.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/5b15637f-9ffc-4946-bc56-92e2b70bc97d_image_1_1747398763228.png",
+                            "id": 10
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "name": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441",
+                    "shortDescription": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441\u044b Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u041f\u044b\u043b\u0435\u0441\u043e\u0441",
+                    "quantity": 20,
+                    "sku": "VL-707",
+                    "images": [
+                        {
+                            "productRusId": 5,
+                            "fileName": "808a867d-ed85-414d-bf80-8826c7f4b287_image_0_1747398980111.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/808a867d-ed85-414d-bf80-8826c7f4b287_image_0_1747398980111.png",
+                            "id": 12
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "\u041a\u0430\u0437\u0430\u043d",
+                    "shortDescription": "\u041a\u0430\u0437\u0430\u043d Vicalina",
+                    "price": 270000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041a\u0410\u0417\u0410\u041d\u042b",
+                    "type": "\u041a\u0430\u0437\u0430\u043d",
+                    "quantity": 19,
+                    "sku": "VL-0124",
+                    "images": [
+                        {
+                            "productRusId": 6,
+                            "fileName": "6e81941e-9aa2-4d38-99b6-7bad2b5d24f6_image_0_1747399364403.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/6e81941e-9aa2-4d38-99b6-7bad2b5d24f6_image_0_1747399364403.png",
+                            "id": 13
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "\u041a\u0430\u0437\u0430\u043d",
+                    "shortDescription": "\u041a\u0430\u0437\u0430\u043d Vicalina",
+                    "price": 260000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041a\u0410\u0417\u0410\u041d\u042b",
+                    "type": "\u041a\u0430\u0437\u0430\u043d",
+                    "quantity": 20,
+                    "sku": "VL-7801",
+                    "images": [
+                        {
+                            "productRusId": 7,
+                            "fileName": "b2ec46b7-3a6c-4f8a-82e7-abb3483703cb_image_0_1747400950108.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/b2ec46b7-3a6c-4f8a-82e7-abb3483703cb_image_0_1747400950108.png",
+                            "id": 16
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "\u041a\u0430\u0437\u0430\u043d",
+                    "shortDescription": "\u041a\u0430\u0437\u0430\u043d Vicalina",
+                    "price": 200000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041a\u0410\u0417\u0410\u041d\u042b",
+                    "type": "\u041a\u0430\u0437\u0430\u043d",
+                    "quantity": 20,
+                    "sku": "VL-6824",
+                    "images": [
+                        {
+                            "productRusId": 8,
+                            "fileName": "914f20a1-c710-481b-9378-3f0855be1fab_image_0_1747458083626.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/914f20a1-c710-481b-9378-3f0855be1fab_image_0_1747458083626.png",
+                            "id": 18
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "\u0423\u0442\u044e\u0433 ",
+                    "shortDescription": "\u0423\u0442\u044e\u0433 Vicalina",
+                    "price": 360000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0423\u0442\u044e\u0433 ",
+                    "quantity": 19,
+                    "sku": "VL-101D",
+                    "images": [
+                        {
+                            "productRusId": 9,
+                            "fileName": "731e1f3d-5682-4443-9261-cc490d0a2949_image_0_1747458534500.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/731e1f3d-5682-4443-9261-cc490d0a2949_image_0_1747458534500.png",
+                            "id": 20
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "\u0443\u0442\u044e\u0433 ",
+                    "shortDescription": "\u0443\u0442\u044e\u0433 Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0443\u0442\u044e\u0433 ",
+                    "quantity": 19,
+                    "sku": "VL-102D",
+                    "images": [
+                        {
+                            "productRusId": 10,
+                            "fileName": "2b00e670-117b-43a9-aa1f-4418eb84af93_image_0_1747458816266.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/2b00e670-117b-43a9-aa1f-4418eb84af93_image_0_1747458816266.png",
+                            "id": 22
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "name": "\u0423\u0442\u044e\u0433 ",
+                    "shortDescription": "\u0423\u0442\u044e\u0433 Vicalina",
+                    "price": 350000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0423\u0442\u044e\u0433",
+                    "quantity": 20,
+                    "sku": "VL-103D",
+                    "images": [
+                        {
+                            "productRusId": 11,
+                            "fileName": "f488cc68-f9f3-41da-bc3e-3a9112ea4736_image_0_1747459167243.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/f488cc68-f9f3-41da-bc3e-3a9112ea4736_image_0_1747459167243.png",
+                            "id": 24
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "\u0423\u0442\u044e\u0433 ",
+                    "shortDescription": "\u0423\u0442\u044e\u0433 Vicalina ",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0423\u0442\u044e\u0433 ",
+                    "quantity": 20,
+                    "sku": "VL-106D",
+                    "images": [
+                        {
+                            "productRusId": 12,
+                            "fileName": "c44c256a-3ea9-4bae-a865-d246102a8ca4_image_0_1747459455181.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/c44c256a-3ea9-4bae-a865-d246102a8ca4_image_0_1747459455181.png",
+                            "id": 26
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "\u0443\u0442\u044e\u0433\u043e\u043c ",
+                    "shortDescription": "\u0443\u0442\u044e\u0433 Vicalina",
+                    "price": 800000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0443\u0442\u044e\u0433 ",
+                    "quantity": 20,
+                    "sku": "VL-107D",
+                    "images": [
+                        {
+                            "productRusId": 13,
+                            "fileName": "a992b79d-5196-4597-9eed-dd984537f7da_image_0_1747459955579.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/a992b79d-5196-4597-9eed-dd984537f7da_image_0_1747459955579.png",
+                            "id": 28
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "\u0443\u0442\u044e\u0433 ",
+                    "shortDescription": "\u0443\u0442\u044e\u0433 Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0443\u0442\u044e\u0433 ",
+                    "quantity": 20,
+                    "sku": "VL-117D",
+                    "images": [
+                        {
+                            "productRusId": 14,
+                            "fileName": "9448035d-69ff-4688-9879-8b3732b76cf0_image_0_1747460964661.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/9448035d-69ff-4688-9879-8b3732b76cf0_image_0_1747460964661.png",
+                            "id": 31
+                        },
+                        {
+                            "productRusId": 14,
+                            "fileName": "77936a46-f69c-4e37-9792-4fd0873e28c6_image_1_1747460964662.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/77936a46-f69c-4e37-9792-4fd0873e28c6_image_1_1747460964662.png",
+                            "id": 32
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "\u0443\u0442\u044e\u0433",
+                    "shortDescription": "\u0443\u0442\u044e\u0433 Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0443\u0442\u044e\u0433",
+                    "quantity": 20,
+                    "sku": "VL-120D",
+                    "images": [
+                        {
+                            "productRusId": 15,
+                            "fileName": "c5ff4d1d-1382-46c5-951d-cad4c610425c_image_0_1747470073430.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/c5ff4d1d-1382-46c5-951d-cad4c610425c_image_0_1747470073430.png",
+                            "id": 34
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "name": "\u0443\u0442\u044e\u0433 ",
+                    "shortDescription": "\u0443\u0442\u044e\u0433 Vicalina",
+                    "price": 200000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0443\u0442\u044e\u0433 ",
+                    "quantity": 20,
+                    "sku": "VL-121D",
+                    "images": [
+                        {
+                            "productRusId": 16,
+                            "fileName": "f3e49950-5d65-462b-b3f3-da6ea69697df_image_0_1747470240309.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/f3e49950-5d65-462b-b3f3-da6ea69697df_image_0_1747470240309.png",
+                            "id": 36
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "name": "\u0427\u043e\u043f\u043f\u0435\u0440",
+                    "shortDescription": "\u0427\u043e\u043f\u043f\u0435\u0440 Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0427\u043e\u043f\u043f\u0435\u0440",
+                    "quantity": 20,
+                    "sku": "VL-109D",
+                    "images": [
+                        {
+                            "productRusId": 17,
+                            "fileName": "f9df24c9-a93f-4f71-be92-146abf3858b0_image_0_1747542128800.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/f9df24c9-a93f-4f71-be92-146abf3858b0_image_0_1747542128800.png",
+                            "id": 38
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "name": "\u0427\u043e\u043f\u043f\u0435\u0440",
+                    "shortDescription": "\u0427\u043e\u043f\u043f\u0435\u0440 Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0427\u043e\u043f\u043f\u0435\u0440",
+                    "quantity": 20,
+                    "sku": "VL-203D",
+                    "images": [
+                        {
+                            "productRusId": 18,
+                            "fileName": "67f9955f-553c-4e79-9eb7-6c3d42a934d3_image_0_1747542549274.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/67f9955f-553c-4e79-9eb7-6c3d42a934d3_image_0_1747542549274.png",
+                            "id": 40
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "name": "\u0427\u043e\u043f\u043f\u0435\u0440 ",
+                    "shortDescription": "\u0427\u043e\u043f\u043f\u0435\u0440 Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0427\u043e\u043f\u043f\u0435\u0440",
+                    "quantity": 20,
+                    "sku": "VL-113D",
+                    "images": [
+                        {
+                            "productRusId": 19,
+                            "fileName": "12251795-7826-4ad0-88d0-30176a569041_image_0_1747542827221.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/12251795-7826-4ad0-88d0-30176a569041_image_0_1747542827221.png",
+                            "id": 42
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "name": "\u0427\u043e\u043f\u043f\u0435\u0440 ",
+                    "shortDescription": "\u0427\u043e\u043f\u043f\u0435\u0440 Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0427\u043e\u043f\u043f\u0435\u0440 ",
+                    "quantity": 20,
+                    "sku": "VL-201D",
+                    "images": [
+                        {
+                            "productRusId": 20,
+                            "fileName": "b7066b99-63e5-4d00-bebd-c3b2f4a5b178_image_0_1747543278539.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/b7066b99-63e5-4d00-bebd-c3b2f4a5b178_image_0_1747543278539.png",
+                            "id": 44
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "name": "\u0427\u043e\u043f\u043f\u0435\u0440",
+                    "shortDescription": "\u0427\u043e\u043f\u043f\u0435\u0440 Vicalina ",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u0427\u043e\u043f\u043f\u0435\u0440",
+                    "quantity": 20,
+                    "sku": "VL-202D",
+                    "images": [
+                        {
+                            "productRusId": 21,
+                            "fileName": "65d00b55-b0dc-470f-8629-3b18bcfcb513_image_0_1747543500553.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/65d00b55-b0dc-470f-8629-3b18bcfcb513_image_0_1747543500553.png",
+                            "id": 46
+                        }
+                    ]
+                },
+                {
+                    "id": 30,
+                    "name": "\u043a\u0443\u0445\u043e\u043d\u043d\u0430\u044f \u043d\u0430\u0431\u043e\u0440",
+                    "shortDescription": "\u043a\u0443\u0445\u043e\u043d\u043d\u0430\u044f \u043d\u0430\u0431\u043e\u0440 Vicalina",
+                    "price": 250000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041a\u0423\u0425\u041e\u041d\u041d\u042b\u0415 \u041d\u0410\u0411\u041e\u0420\u042b",
+                    "type": "\u043d\u0430\u0431\u043e\u0440",
+                    "quantity": 20,
+                    "sku": "VL-1271",
+                    "images": [
+                        {
+                            "productRusId": 30,
+                            "fileName": "2e5c7521-0dd0-4a4e-83aa-ee726065950a_image_0_1747562088291.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/2e5c7521-0dd0-4a4e-83aa-ee726065950a_image_0_1747562088291.png",
+                            "id": 79
+                        },
+                        {
+                            "productRusId": 30,
+                            "fileName": "80f71101-d069-4362-881c-cc96b8203c3d_image_1_1747562088291.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/80f71101-d069-4362-881c-cc96b8203c3d_image_1_1747562088291.png",
+                            "id": 80
+                        }
+                    ]
+                },
+                {
+                    "id": 31,
+                    "name": "\u043d\u0430\u0431\u043e\u0440",
+                    "shortDescription": "\u043d\u0430\u0431\u043e\u0440 Vicalina",
+                    "price": 250000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041a\u0423\u0425\u041e\u041d\u041d\u042b\u0415 \u041d\u0410\u0411\u041e\u0420\u042b",
+                    "type": "\u043d\u0430\u0431\u043e\u0440",
+                    "quantity": 14,
+                    "sku": "VL-1272",
+                    "images": [
+                        {
+                            "productRusId": 31,
+                            "fileName": "822ac681-978a-4398-9582-ca723a862e2b_image_0_1747562576685.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/822ac681-978a-4398-9582-ca723a862e2b_image_0_1747562576685.png",
+                            "id": 83
+                        },
+                        {
+                            "productRusId": 31,
+                            "fileName": "8f7c9f47-7609-4eb3-9bd0-d73193f2667f_image_1_1747562576687.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/8f7c9f47-7609-4eb3-9bd0-d73193f2667f_image_1_1747562576687.png",
+                            "id": 84
+                        }
+                    ]
+                },
+                {
+                    "id": 32,
+                    "name": "\u043d\u0430\u0431\u043e\u0440 \u043b\u043e\u0436\u0435\u043a \u0438 \u0432\u0438\u043b\u043e\u043a",
+                    "shortDescription": "\u041d\u0430\u0431\u043e\u0440 \u043b\u043e\u0436\u0435\u043a \u0438 \u0432\u0438\u043b\u043e\u043a Vicalina",
+                    "price": 350000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041b\u041e\u0416\u041a\u0418",
+                    "type": "\u041d\u0430\u0431\u043e\u0440 ",
+                    "quantity": 19,
+                    "sku": "VL-322",
+                    "images": [
+                        {
+                            "productRusId": 32,
+                            "fileName": "62cfbd08-1adf-48ef-9cf3-ca61e2ad2c66_image_0_1747565886253.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/62cfbd08-1adf-48ef-9cf3-ca61e2ad2c66_image_0_1747565886253.png",
+                            "id": 87
+                        },
+                        {
+                            "productRusId": 32,
+                            "fileName": "49ff6a31-b135-4b3d-9132-7356e4472822_image_1_1747565886255.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/49ff6a31-b135-4b3d-9132-7356e4472822_image_1_1747565886255.png",
+                            "id": 88
+                        }
+                    ]
+                },
+                {
+                    "id": 33,
+                    "name": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430",
+                    "shortDescription": "\u041d\u0430\u0431\u043e\u0440 \u043b\u043e\u0436\u0435\u043a \u0438 \u0432\u0438\u043b\u043e\u043a Vicalina",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041b\u041e\u0416\u041a\u0418",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-331",
+                    "images": [
+                        {
+                            "productRusId": 33,
+                            "fileName": "788b0100-6cb2-40d4-a05d-8bbdaee32ee9_image_0_1747733412904.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/788b0100-6cb2-40d4-a05d-8bbdaee32ee9_image_0_1747733412904.png",
+                            "id": 91
+                        },
+                        {
+                            "productRusId": 33,
+                            "fileName": "ff5adb9d-823b-4ba3-89e1-ced405db85ac_image_1_1747733412906.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/ff5adb9d-823b-4ba3-89e1-ced405db85ac_image_1_1747733412906.png",
+                            "id": 92
+                        }
+                    ]
+                },
+                {
+                    "id": 34,
+                    "name": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430",
+                    "shortDescription": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430 Vicalina",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041b\u041e\u0416\u041a\u0418",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-342",
+                    "images": [
+                        {
+                            "productRusId": 34,
+                            "fileName": "612d3c99-16c9-4a48-a099-ec029ff55c91_image_0_1747734412911.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/612d3c99-16c9-4a48-a099-ec029ff55c91_image_0_1747734412911.png",
+                            "id": 95
+                        },
+                        {
+                            "productRusId": 34,
+                            "fileName": "65ed7bb0-d9bd-450e-a7b2-9282f606c53a_image_1_1747734412913.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/65ed7bb0-d9bd-450e-a7b2-9282f606c53a_image_1_1747734412913.png",
+                            "id": 96
+                        }
+                    ]
+                },
+                {
+                    "id": 35,
+                    "name": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430",
+                    "shortDescription": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430 Vicalina",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041b\u041e\u0416\u041a\u0418",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-342",
+                    "images": [
+                        {
+                            "productRusId": 35,
+                            "fileName": "bfd49ffa-4034-4469-87eb-a8934605749a_image_0_1747734796138.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/bfd49ffa-4034-4469-87eb-a8934605749a_image_0_1747734796138.png",
+                            "id": 99
+                        },
+                        {
+                            "productRusId": 35,
+                            "fileName": "af1765a8-0181-43c7-874a-1d42bbf45c81_image_1_1747734796138.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/af1765a8-0181-43c7-874a-1d42bbf45c81_image_1_1747734796138.png",
+                            "id": 100
+                        }
+                    ]
+                },
+                {
+                    "id": 36,
+                    "name": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430",
+                    "shortDescription": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430 Vicalina",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041b\u041e\u0416\u041a\u0418",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-347",
+                    "images": [
+                        {
+                            "productRusId": 36,
+                            "fileName": "949b5e0f-e16b-4b71-a8d0-1405679aaf6c_image_0_1747734962287.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/949b5e0f-e16b-4b71-a8d0-1405679aaf6c_image_0_1747734962287.png",
+                            "id": 103
+                        },
+                        {
+                            "productRusId": 36,
+                            "fileName": "c5e2a498-f2ca-432c-85a4-19f0ddb88a9a_image_1_1747734962289.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/c5e2a498-f2ca-432c-85a4-19f0ddb88a9a_image_1_1747734962289.png",
+                            "id": 104
+                        }
+                    ]
+                },
+                {
+                    "id": 37,
+                    "name": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430",
+                    "shortDescription": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430 Vicalina",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041b\u041e\u0416\u041a\u0418",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-352",
+                    "images": [
+                        {
+                            "productRusId": 37,
+                            "fileName": "9ec8bc04-a073-4e03-8176-68ce195eed7d_image_0_1747735204402.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/9ec8bc04-a073-4e03-8176-68ce195eed7d_image_0_1747735204402.png",
+                            "id": 107
+                        },
+                        {
+                            "productRusId": 37,
+                            "fileName": "f2ba21c3-42cc-470b-912d-00e2b93692bf_image_1_1747735204404.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/f2ba21c3-42cc-470b-912d-00e2b93692bf_image_1_1747735204404.png",
+                            "id": 108
+                        }
+                    ]
+                },
+                {
+                    "id": 38,
+                    "name": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430",
+                    "shortDescription": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430 Vicalina",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041b\u041e\u0416\u041a\u0418",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-362",
+                    "images": [
+                        {
+                            "productRusId": 38,
+                            "fileName": "d26aaf57-0ac1-4f3b-b7e9-bcebc29f9d36_image_0_1747735374867.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/d26aaf57-0ac1-4f3b-b7e9-bcebc29f9d36_image_0_1747735374867.png",
+                            "id": 111
+                        },
+                        {
+                            "productRusId": 38,
+                            "fileName": "7ce963e2-4a3a-43b5-86bb-9339ae727720_image_1_1747735374869.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/7ce963e2-4a3a-43b5-86bb-9339ae727720_image_1_1747735374869.png",
+                            "id": 112
+                        }
+                    ]
+                },
+                {
+                    "id": 39,
+                    "name": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430",
+                    "shortDescription": "\u041b\u043e\u0436\u043a\u0430 \u0438 \u0432\u0438\u043b\u043a\u0430 Vicalina",
+                    "price": 300000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041b\u041e\u0416\u041a\u0418",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-345",
+                    "images": [
+                        {
+                            "productRusId": 39,
+                            "fileName": "f632ee22-ba17-4b8f-8cd1-8e92792b1263_image_0_1747735505482.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/f632ee22-ba17-4b8f-8cd1-8e92792b1263_image_0_1747735505482.png",
+                            "id": 115
+                        },
+                        {
+                            "productRusId": 39,
+                            "fileName": "2b111bd1-b7d6-45e4-aed7-6244ff29fc14_image_1_1747735505484.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/2b111bd1-b7d6-45e4-aed7-6244ff29fc14_image_1_1747735505484.png",
+                            "id": 116
+                        }
+                    ]
+                },
+                {
+                    "id": 40,
+                    "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a",
+                    "shortDescription": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a",
+                    "quantity": 20,
+                    "sku": "vl-1702",
+                    "images": [
+                        {
+                            "productRusId": 40,
+                            "fileName": "1e57580e-8fae-42fa-8c23-6788741f4942_image_0_1747815116358.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/1e57580e-8fae-42fa-8c23-6788741f4942_image_0_1747815116358.png",
+                            "id": 117
+                        }
+                    ]
+                },
+                {
+                    "id": 41,
+                    "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a ",
+                    "shortDescription": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a",
+                    "quantity": 20,
+                    "sku": "vl-1732",
+                    "images": [
+                        {
+                            "productRusId": 41,
+                            "fileName": "dca5eab3-3bf4-41c4-863b-5145390e4e5a_image_0_1747815620318.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/dca5eab3-3bf4-41c4-863b-5145390e4e5a_image_0_1747815620318.png",
+                            "id": 120
+                        }
+                    ]
+                },
+                {
+                    "id": 42,
+                    "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a",
+                    "shortDescription": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a",
+                    "quantity": 20,
+                    "sku": "vl-1757",
+                    "images": [
+                        {
+                            "productRusId": 42,
+                            "fileName": "1d1f8d3d-d60a-4f2b-bafa-d31a472808a0_image_0_1747819906680.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/1d1f8d3d-d60a-4f2b-bafa-d31a472808a0_image_0_1747819906680.png",
+                            "id": 122
+                        }
+                    ]
+                },
+                {
+                    "id": 43,
+                    "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a ",
+                    "shortDescription": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a",
+                    "quantity": 20,
+                    "sku": "vl-1762",
+                    "images": [
+                        {
+                            "productRusId": 43,
+                            "fileName": "33717fff-b405-488d-8d78-b39ebd68160c_image_0_1747820237225.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/33717fff-b405-488d-8d78-b39ebd68160c_image_0_1747820237225.png",
+                            "id": 124
+                        }
+                    ]
+                },
+                {
+                    "id": 44,
+                    "name": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a",
+                    "shortDescription": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0415\u041b\u041a\u0410\u042f \u0411\u042b\u0422\u041e\u0412\u0410\u042f \u0422\u0415\u0425\u041d\u0418\u041a\u0410",
+                    "type": "\u042d\u043b\u0435\u043a\u0442\u0440\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0447\u0430\u0439\u043d\u0438\u043a",
+                    "quantity": 20,
+                    "sku": "vl-1788",
+                    "images": [
+                        {
+                            "productRusId": 44,
+                            "fileName": "071e719e-8cce-4e4e-ba0c-249c4ebd7c8b_image_0_1747820703837.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/071e719e-8cce-4e4e-ba0c-249c4ebd7c8b_image_0_1747820703837.png",
+                            "id": 126
+                        }
+                    ]
+                },
+                {
+                    "id": 45,
+                    "name": "\u0421\u043a\u043e\u0432\u043e\u0440\u043e\u0434\u043a\u0430 ",
+                    "shortDescription": "\u0421\u043a\u043e\u0432\u043e\u0440\u043e\u0434\u0430 Vicalina",
+                    "price": 250000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u0421\u041a\u041e\u0412\u041e\u0420\u041e\u0414\u042b",
+                    "type": "\u0421\u043a\u043e\u0432\u043e\u0440\u043e\u0434\u043a\u0430 ",
+                    "quantity": 18,
+                    "sku": "VL-4224",
+                    "images": [
+                        {
+                            "productRusId": 45,
+                            "fileName": "a4f7f92a-b82c-4e24-b86d-dd4292556b56_image_0_1747821494524.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/a4f7f92a-b82c-4e24-b86d-dd4292556b56_image_0_1747821494524.png",
+                            "id": 128
+                        }
+                    ]
+                },
+                {
+                    "id": 46,
+                    "name": "\u0421\u043a\u043e\u0432\u043e\u0440\u043e\u0434\u043a\u0430 ",
+                    "shortDescription": "\u0421\u043a\u043e\u0432\u043e\u0440\u043e\u0434\u0430 Vicalina",
+                    "price": 250000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u0421\u041a\u041e\u0412\u041e\u0420\u041e\u0414\u042b",
+                    "type": "\u0421\u043a\u043e\u0432\u043e\u0440\u043e\u0434\u043a\u0430 ",
+                    "quantity": 20,
+                    "sku": "VL-0224",
+                    "images": [
+                        {
+                            "productRusId": 46,
+                            "fileName": "06de090f-e6e2-43f9-9e4e-6454522f60ba_image_0_1747821863564.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/06de090f-e6e2-43f9-9e4e-6454522f60ba_image_0_1747821863564.png",
+                            "id": 130
+                        }
+                    ]
+                },
+                {
+                    "id": 47,
+                    "name": "\u0421\u043a\u043e\u0432\u043e\u0440\u043e\u0434\u043a\u0430",
+                    "shortDescription": "\u0421\u043a\u043e\u0432\u043e\u0440\u043e\u0434\u0430 Vicalina",
+                    "price": 250000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u0421\u041a\u041e\u0412\u041e\u0420\u041e\u0414\u042b",
+                    "type": "\u0421\u043a\u043e\u0432\u043e\u0440\u043e\u0434\u043a\u0430",
+                    "quantity": 20,
+                    "sku": "VL-4324",
+                    "images": [
+                        {
+                            "productRusId": 47,
+                            "fileName": "95d2015e-0c06-4d1f-a5b4-070e9454e9dc_image_0_1747823301723.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/95d2015e-0c06-4d1f-a5b4-070e9454e9dc_image_0_1747823301723.png",
+                            "id": 132
+                        }
+                    ]
+                },
+                {
+                    "id": 48,
+                    "name": "\u041a\u043e\u0432\u0443\u0448",
+                    "shortDescription": "Vicalina \u041a\u043e\u0432\u0443\u0448",
+                    "price": 250000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u0421\u041a\u041e\u0412\u041e\u0420\u041e\u0414\u042b",
+                    "type": " \u041a\u043e\u0432\u0443\u0448",
+                    "quantity": 20,
+                    "sku": "VL-6018",
+                    "images": [
+                        {
+                            "productRusId": 48,
+                            "fileName": "63423aab-0e69-45c7-b667-ee3d93ead15d_image_0_1747823684880.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/63423aab-0e69-45c7-b667-ee3d93ead15d_image_0_1747823684880.png",
+                            "id": 134
+                        }
+                    ]
+                },
+                {
+                    "id": 50,
+                    "name": "\u041a\u043e\u0432\u0443\u0448",
+                    "shortDescription": "\u041a\u043e\u0432\u0443\u0448 Vicalina",
+                    "price": 210000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u0421\u041a\u041e\u0412\u041e\u0420\u041e\u0414\u042b",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-1001",
+                    "images": [
+                        {
+                            "productRusId": 50,
+                            "fileName": "a2bd57b0-93bc-490f-9af8-9c8cd5e865e2_image_0_1748076647107.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/a2bd57b0-93bc-490f-9af8-9c8cd5e865e2_image_0_1748076647107.png",
+                            "id": 138
+                        }
+                    ]
+                },
+                {
+                    "id": 51,
+                    "name": "\u043a\u0430\u0441\u0442\u0440\u044e\u043b\u044f",
+                    "shortDescription": "\u043a\u0430\u0441\u0442\u0440\u044e\u043b\u044f Vicalina",
+                    "price": 900000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041d\u0410\u0411\u041e\u0420\u042b \u041a\u0410\u0421\u0422\u0420\u042e\u041b\u042c",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-3027",
+                    "images": [
+                        {
+                            "productRusId": 51,
+                            "fileName": "7749a2f7-44b9-476d-9b43-d96170f8ccf2_image_0_1748082139698.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/7749a2f7-44b9-476d-9b43-d96170f8ccf2_image_0_1748082139698.png",
+                            "id": 140
+                        }
+                    ]
+                },
+                {
+                    "id": 52,
+                    "name": "\u041a\u0430\u0441\u0442\u0440\u044e\u043b\u044f",
+                    "shortDescription": "\u041a\u0430\u0441\u0442\u0440\u044e\u043b\u044f Vicalina",
+                    "price": 900000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041d\u0410\u0411\u041e\u0420\u042b \u041a\u0410\u0421\u0422\u0420\u042e\u041b\u042c",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-3018",
+                    "images": [
+                        {
+                            "productRusId": 52,
+                            "fileName": "915c67f7-b095-4b0f-a030-673b0fb4dfcb_image_0_1748082395199.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/915c67f7-b095-4b0f-a030-673b0fb4dfcb_image_0_1748082395199.png",
+                            "id": 142
+                        }
+                    ]
+                },
+                {
+                    "id": 53,
+                    "name": "\u041a\u0430\u0441\u0442\u0440\u044e\u043b\u044f",
+                    "shortDescription": "\u041a\u0430\u0441\u0442\u0440\u044e\u043b\u044f Vicalina",
+                    "price": 900000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041d\u0410\u0411\u041e\u0420\u042b \u041a\u0410\u0421\u0422\u0420\u042e\u041b\u042c",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-1013",
+                    "images": [
+                        {
+                            "productRusId": 53,
+                            "fileName": "f7d29e43-f587-4a0c-9380-d4e9fbc6e2ab_image_0_1748082970589.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/f7d29e43-f587-4a0c-9380-d4e9fbc6e2ab_image_0_1748082970589.png",
+                            "id": 147
+                        },
+                        {
+                            "productRusId": 53,
+                            "fileName": "3a93807c-3783-4cee-aa8c-266eb14982df_image_1_1748082970591.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/3a93807c-3783-4cee-aa8c-266eb14982df_image_1_1748082970591.png",
+                            "id": 148
+                        },
+                        {
+                            "productRusId": 53,
+                            "fileName": "84019831-feb4-43d0-a976-9f417e3d4563_image_2_1748082970591.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/84019831-feb4-43d0-a976-9f417e3d4563_image_2_1748082970591.png",
+                            "id": 149
+                        },
+                        {
+                            "productRusId": 53,
+                            "fileName": "74d16505-7a6d-4e9b-a26b-f28de54a9819_image_3_1748082970591.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/74d16505-7a6d-4e9b-a26b-f28de54a9819_image_3_1748082970591.png",
+                            "id": 150
+                        }
+                    ]
+                },
+                {
+                    "id": 54,
+                    "name": "\u041a\u0430\u0437\u0430\u043d",
+                    "shortDescription": "\u041a\u0430\u0437\u0430\u043d Vicalina",
+                    "price": 900000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041d\u0410\u0411\u041e\u0420\u042b \u041a\u0410\u0417\u0410\u041d\u041e\u0412",
+                    "type": "\u0433\u0440\u0430\u043d\u0438\u0442",
+                    "quantity": 20,
+                    "sku": "VL-0119",
+                    "images": [
+                        {
+                            "productRusId": 54,
+                            "fileName": "cb73727b-dde5-4185-90ad-138faa32e7c2_image_0_1748084050102.jpeg",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/cb73727b-dde5-4185-90ad-138faa32e7c2_image_0_1748084050102.jpeg",
+                            "id": 152
+                        }
+                    ]
+                },
+                {
+                    "id": 55,
+                    "name": "\u041d\u0430\u0431\u043e\u0440 \u043d\u043e\u0436\u0435\u0439",
+                    "shortDescription": "\u041d\u0430\u0431\u043e\u0440 \u043d\u043e\u0436\u0435\u0439 Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041d\u041e\u0416\u0418",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-543",
+                    "images": [
+                        {
+                            "productRusId": 55,
+                            "fileName": "a2c11f78-efa2-4966-9b59-2c12ac8f62e0_image_0_1748084640494.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/a2c11f78-efa2-4966-9b59-2c12ac8f62e0_image_0_1748084640494.png",
+                            "id": 155
+                        },
+                        {
+                            "productRusId": 55,
+                            "fileName": "ef7ad4f8-d87d-4ecf-89a5-ad7e57c4560c_image_1_1748084640495.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/ef7ad4f8-d87d-4ecf-89a5-ad7e57c4560c_image_1_1748084640495.png",
+                            "id": 156
+                        }
+                    ]
+                },
+                {
+                    "id": 56,
+                    "name": "\u041d\u0430\u0431\u043e\u0440 \u043d\u043e\u0436\u0435\u0439 ",
+                    "shortDescription": "\u041d\u0430\u0431\u043e\u0440 \u043d\u043e\u0436\u0435\u0439 Vicalina",
+                    "price": 500000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041d\u041e\u0416\u0418",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 20,
+                    "sku": "VL-605",
+                    "images": [
+                        {
+                            "productRusId": 56,
+                            "fileName": "a36d9dd2-63a3-4254-bda0-961e605276a7_image_0_1748085958362.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/a36d9dd2-63a3-4254-bda0-961e605276a7_image_0_1748085958362.png",
+                            "id": 159
+                        },
+                        {
+                            "productRusId": 56,
+                            "fileName": "9f24c6a5-c08c-4ec2-9fb0-0e4e0df8f14e_image_1_1748085958363.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/9f24c6a5-c08c-4ec2-9fb0-0e4e0df8f14e_image_1_1748085958363.png",
+                            "id": 160
+                        }
+                    ]
+                },
+                {
+                    "id": 59,
+                    "name": "\u0411\u043b\u0438\u043d\u0438\u0446\u0430",
+                    "shortDescription": "Vicalina \u0431\u043b\u0438\u043d\u043d\u0438\u0446\u0430",
+                    "price": 200000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u0411\u041b\u0418\u041d\u041d\u0418\u0426\u042b",
+                    "type": "\u0433\u0440\u0430\u043d\u0438\u0442",
+                    "quantity": 20,
+                    "sku": "VL-6022",
+                    "images": [
+                        {
+                            "productRusId": 59,
+                            "fileName": "58b6a964-d44c-4627-871c-54da5f33fc3f_image_0_1748164485293.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/58b6a964-d44c-4627-871c-54da5f33fc3f_image_0_1748164485293.png",
+                            "id": 166
+                        }
+                    ]
+                },
+                {
+                    "id": 60,
+                    "name": "\u041c\u0430\u043d\u0442\u044b\u0448\u043d\u0438\u0446\u0430",
+                    "shortDescription": "Vicalina \u041c\u0430\u043d\u0442\u044b\u0448\u043d\u0438\u0446\u0430",
+                    "price": 900000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0410\u041d\u0422\u041e\u0412\u0410\u0420\u041a\u0418",
+                    "type": "\u041c\u0430\u043d\u0442\u044b\u0448\u043d\u0438\u0446\u0430",
+                    "quantity": 5,
+                    "sku": "VL-5028",
+                    "images": [
+                        {
+                            "productRusId": 60,
+                            "fileName": "8848a202-0849-4328-becc-cb5f3d18c2cd_image_0_1748164918419.jpeg",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/8848a202-0849-4328-becc-cb5f3d18c2cd_image_0_1748164918419.jpeg",
+                            "id": 168
+                        }
+                    ]
+                },
+                {
+                    "id": 61,
+                    "name": "\u041c\u0430\u043d\u0442\u0438\u0441\u043d\u0438\u0446\u0430",
+                    "shortDescription": "Vicalina \u041c\u0430\u043d\u0442\u0438\u0441\u043d\u0438\u0446\u0430",
+                    "price": 200000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041c\u0410\u041d\u0422\u041e\u0412\u0410\u0420\u041a\u0418",
+                    "type": "\u0433\u0440\u0430\u043d\u0438\u0442",
+                    "quantity": 5,
+                    "sku": "VL-6828",
+                    "images": [
+                        {
+                            "productRusId": 61,
+                            "fileName": "960d9136-841d-490b-bc9a-1f1dd5ab5203_image_0_1748165806940.png",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/960d9136-841d-490b-bc9a-1f1dd5ab5203_image_0_1748165806940.png",
+                            "id": 170
+                        }
+                    ]
+                },
+                {
+                    "id": 62,
+                    "name": "\u041a\u0430\u0441\u0442\u0438\u043b\u0438\u044f",
+                    "shortDescription": "Vicalina \u041a\u0430\u0441\u0442\u0438\u043b\u0438\u044f",
+                    "price": 600000,
+                    "newPrice": 0,
+                    "availability": false,
+                    "numberOfPurchases": 0,
+                    "ratingCount": 0,
+                    "rating": 0,
+                    "discount": false,
+                    "category": "\u041d\u0410\u0411\u041e\u0420\u042b \u041a\u0410\u0421\u0422\u0420\u042e\u041b\u042c",
+                    "type": "\u041c\u0435\u0442\u0430\u043b\u043b",
+                    "quantity": 5,
+                    "sku": "VL-265",
+                    "images": [
+                        {
+                            "productRusId": 62,
+                            "fileName": "a92df17f-e2c5-49c6-8269-758091f5adb7_image_0_1748168466949.jpeg",
+                            "filePath": "http://45.138.158.239:5726/upload/ProductImages/a92df17f-e2c5-49c6-8269-758091f5adb7_image_0_1748168466949.jpeg",
+                            "id": 172
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

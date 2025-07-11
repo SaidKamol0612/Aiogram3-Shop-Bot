@@ -1,0 +1,174 @@
+{
+    "chose_lang": {
+        "uz": "🇺🇿 Siz o'zbek tilini tanladingiz.",
+        "ru": "🇷🇺 Вы выбрали русский язык."
+    },
+    "reg_warning": {
+        "uz": "Iltimos botimizdan foydanilishdan oldin ro'yxat o'ting. Bu uncha ko'p vaqt olmaydi.",
+        "ru": "Пожалуйста перед использованием бота пройдите регистрацию. Это не займёт много времени."
+    },
+    "request_name": {
+        "uz": "1. Botga ismingizni yozib yuboring.",
+        "ru": "1. Отправьте в бота ваше имя."
+    },
+    "accept_name": {
+        "uz": "✅ Ismingizni qabul qildim.",
+        "ru": "✅ Принял ваше имя."
+    },
+    "request_phone": {
+        "uz": "2. Botga telefon raqmingizni yozib yuboring.",
+        "ru": "2. Отправьте в бота ваш номер телефона."
+    },
+    "send_number": {
+        "uz": "☎️ Telefon raqamini jo'natish",
+        "ru": "☎️ Отправить номер телефона"
+    },
+    "accept_phone": {
+        "uz": "✅ Telefon raqamingizni qabul qildim.",
+        "ru": "✅ Принял ваш номер телефона."
+    },
+    "welcome_menu": {
+        "uz": "👋 Xush kelibsiz!\n🏠 Bosh menu.",
+        "ru": "👋 Добро пожаловать!\n🏠 Главный меню."
+    },
+    "menu": {
+        "uz": [
+            "🔍 Kod yordamida qidirish",
+            "🧾 Katalog",
+            "🛒 Savat",
+            "❤️ Sevimlilar",
+            "🗂 Ma'lumotlarim",
+            "📦 Mening buyurtmalarim",
+            "🌐 Tilni o'zgartirish"
+        ],
+        "ru": [
+            "🔍 Искать с помощью кода",
+            "🧾 Каталог",
+            "🛒 Корзина",
+            "❤️ Любимые",
+            "🗂 Мои информации",
+            "📦 Мои заказы",
+            "🌐 Сменить язык"
+        ]
+    },
+    "request_code": {
+        "uz": "🔍 Mahsulot kodini jo'nating.",
+        "ru": "🔍 Отправьте код продукта."
+    },
+    "back_to_menu": {
+        "uz": "🏠 Bosh menyuga qaytish.",
+        "ru": "🏠 Вернуться в главоному меню."
+    },
+    "product_details": {
+        "uz": "📦 Mahsulot nomi: name. \n🏷️ Mahsulot haqida: description. \n🧮 Mahsulot narxi: price. \n\n🛒 Savatchangizda: count dona.",
+        "ru": "📦 Название продукта: name. \n🏷️ Описание продукта: description. \n🧮 Цена продукта: price. \n\n🛒 В вашей корзине: count штук."
+    },
+    "product_menu": {
+        "uz": [
+            "❤️/💔",
+            "📦 Buyurtma berish",
+            "➖ Savatga olib tashlash",
+            "🛒 Savatga qo'shish"
+        ],
+        "ru": [
+            "❤️/💔",
+            "📦 Заказать.",
+            "➖ Убрать с корзины.",
+            "🛒 Добавить в корзину."
+        ]
+    },
+    "categories": {
+        "uz": "🔍 Kategoriyalarimiz.",
+        "ru": "🔍 Наши категории."
+    },
+    "ctg_not_found": {
+        "uz": "⚠️ Bunday kategoriyamiz yo'q.",
+        "ru": "⚠️ У нас нету такой категории."
+    },
+    "back_to_ctgs": {
+        "uz": "🔙 Kategoriyalarga qaytish.",
+        "ru": "🔙 Вернуться к категориям."
+    },
+    "ctg_products": {
+        "uz": "🔍 Shu kategoriyadagi mahsulotlarimiz.",
+        "ru": "🔍 Наши продукты в этой категории."
+    },
+    "product_not_found": {
+        "uz": "⚠️ Bunday mahsulotimiz yo'q.",
+        "ru": "⚠️ У нас нету такого продукта."
+    },
+    "no_favorites": {
+        "uz": "💔 Sizda sevimli mahsulotlar yo'q.",
+        "ru": "💔 У вас нету любимых продуктов."
+    },
+    "no_cart_products": {
+        "uz": "🛒 Siznig savatchada mahsulotlar yo'q.",
+        "ru": "🛒 В вашей корзине нету продуктов."
+    },
+    "no_orders": {
+        "uz": "⚠️ Sizning buyurtmalaringiz yo'q.",
+        "ru": "⚠️ У вас нету заказов."
+    },
+    "your_orders": {
+        "uz": "📦 Sizning buyurtmalaringiz.",
+        "ru": "📦 Ваши заказы."
+    },
+    "user_info": {
+        "uz": [
+            "🪪 Ismingiz",
+            "☎️ Telefon raqamingiz",
+            "👤 Tg username"
+        ],
+        "ru": [
+            "🪪 Ваше имя",
+            "☎️ Ваш номер телефона",
+            "👤 Юзернейм в тг"
+        ]
+    },
+    "liked_unliked": {
+        "uz": [
+            "❤️ Sevimlilarga qo'shildi.",
+            "💔 Sevimlilardan olib tashlandi."
+        ],
+        "ru": [
+            "❤️ Добавлен в любимые",
+            "💔 Удален из любимых."
+        ]
+    },
+    "no_product_in_cart": {
+        "uz": "⚠️ Sizning savatchada bu mahsulotdan boshqa yo'q.",
+        "ru": "⚠️ В вашей корзине больше нету этого продукта."
+    },
+    "product_added_to_cart": {
+        "uz": "✅ Mahsulot savatchaga qo'shildi.",
+        "ru": "✅ Продукт добавлен в корзину."
+    },
+    "product_removed_from_cart": {
+        "uz": "➖ Mahsulot savatchadan olib tashlandi.",
+        "ru": "➖ Продукт убран с корзины."
+    },
+    "request_accept_order": {
+        "uz": "📦 Savatchadagi mahsulotlarga buyurtma berishni xohlaysizmi ?",
+        "ru": "📦 Хотите заказать продукты в корзине ?"
+    },
+    "order_accepted": {
+        "uz": "✅ Buyurtmangizni qabul qildim.",
+        "ru": "✅ Принял ваш заказ."
+    },
+    "ask_confirm_one_order": {
+        "uz": "❓ Shu mahsulotdan bitta buyurtma bermoqchimisiz ?",
+        "ru": "❓ Хотите заказать одну штуку этого товара ?"
+    },
+    "confirm_one_order": {
+        "uz": "✅ Ha shu mahsulotga buyurtma berish.",
+        "ru": "✅ Да заказать этот продукт."
+    },
+    "pcs": {
+        "uz": "dona.",
+        "ru": "штук."
+    },
+    "yes": {
+        "uz": "✅ Ha",
+        "ru": "✅ Да"
+    }
+}
